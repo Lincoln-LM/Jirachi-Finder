@@ -1,0 +1,11 @@
+C:\Users\win10\source\repos\jirachi tool\jirachi tool\bin\Debug\jirachi tool.exe.config
+C:\Users\win10\source\repos\jirachi tool\jirachi tool\bin\Debug\jirachi tool.exe
+C:\Users\win10\source\repos\jirachi tool\jirachi tool\bin\Debug\jirachi tool.pdb
+C:\Users\win10\source\repos\jirachi tool\jirachi tool\obj\Debug\jirachi tool.csprojAssemblyReference.cache
+C:\Users\win10\source\repos\jirachi tool\jirachi tool\obj\Debug\jirachi_tool.Form1.resources
+C:\Users\win10\source\repos\jirachi tool\jirachi tool\obj\Debug\jirachi_tool.Properties.Resources.resources
+C:\Users\win10\source\repos\jirachi tool\jirachi tool\obj\Debug\jirachi tool.csproj.GenerateResource.cache
+C:\Users\win10\source\repos\jirachi tool\jirachi tool\obj\Debug\jirachi tool.csproj.CoreCompileInputs.cache
+C:\Users\win10\source\repos\jirachi tool\jirachi tool\obj\Debug\jirachi tool.exe
+C:\Users\win10\source\repos\jirachi tool\jirachi tool\obj\Debug\jirachi tool.pdb
+C:\Users\win10\source\repos\jirachi tool\jirachi tool\obj\Debug\jirachi_tool.Form2.resources
