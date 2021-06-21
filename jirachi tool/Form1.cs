@@ -406,7 +406,7 @@ namespace jirachi_tool
                     }
                 }
 
-                sseed = ((uint)MINUTES.Value + (uint)SECONDS.Value << 8) + ((uint)FRAMES.Value << 16) + sseed;
+                sseed = (sminutes + sseconds << 8) + (sframes << 16) + u32base;
                 uint u16sseed = ((sseed >> 16) + (sseed & 0xFFFF)) & 0xFFFF;
                 LCRNG go = new LCRNG(u16sseed);
                 uint high = go.nextUShort();
